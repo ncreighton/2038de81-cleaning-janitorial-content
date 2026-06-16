@@ -1,2 +1,28 @@
-# 2038de81-cleaning-janitorial-content
-Tired of scrambling for social media posts between scrubbing toilets and mopping floors? Your cleaning business deserves a content strategy that works as hard as you do.  The Cleaning &amp; Janitorial Content Calendar and Publishing Planner Notion Template eliminates the guesswork from your marketing. It gives you a structured system to plan, schedule,
+# Cleaning & Janitorial Content Calendar and Publishing Planner Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oU9AT6mXcYI6xyavOd0j42)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oU9AT6mXcYI6xyavOd0j42)
+
